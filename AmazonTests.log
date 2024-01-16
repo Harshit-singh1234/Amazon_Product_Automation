@@ -1,0 +1,238 @@
+Start----------------------------------
+[INFO ] 2024-01-12 01:23:14.616 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 01:23:14.623 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 01:23:17.703 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 01:23:22.242 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 01:23:23.113 [main] AmazonHeadPhoneItemTest - Expected product title is: Rockerz 450R On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant(Hazel Beige)
+[INFO ] 2024-01-12 01:23:23.113 [main] AmazonHeadPhoneItemTest - Expected product price is: 1,958
+[INFO ] 2024-01-12 01:23:23.113 [main] AmazonHeadPhoneItemTest - Expected product rating is: 4.2 out of 5 stars
+[INFO ] 2024-01-12 01:23:23.113 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 01:23:37.593 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 01:23:40.293 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 01:23:40.293 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 01:43:39.232 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 01:43:39.236 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 01:43:42.690 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 01:43:47.547 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 01:43:48.606 [main] AmazonHeadPhoneItemTest - Expected product title is: Rockerz 450R On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant(Hazel Beige)
+[INFO ] 2024-01-12 01:43:48.606 [main] AmazonHeadPhoneItemTest - Expected product price is: 1,958
+[INFO ] 2024-01-12 01:43:48.606 [main] AmazonHeadPhoneItemTest - Expected product rating is: 4.1 out of 5 stars
+[INFO ] 2024-01-12 01:43:48.606 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 01:44:12.787 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 01:44:12.850 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 01:44:12.850 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 01:49:52.484 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 01:49:52.493 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 01:49:58.548 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 01:50:03.885 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 01:50:04.728 [main] AmazonHeadPhoneItemTest - Expected product title is: Rockerz 450R On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant(Hazel Beige)
+[INFO ] 2024-01-12 01:50:04.728 [main] AmazonHeadPhoneItemTest - Expected product price is: 1,958
+[INFO ] 2024-01-12 01:50:04.729 [main] AmazonHeadPhoneItemTest - Expected product rating is: 4.1 out of 5 stars
+[INFO ] 2024-01-12 01:50:04.729 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 01:50:31.208 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 01:50:31.519 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 01:50:31.522 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 01:53:21.791 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 01:53:21.801 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 01:53:24.911 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 01:53:29.987 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 01:54:00.422 [main] AmazonHeadPhoneItemTest - Expected product title is: null
+[INFO ] 2024-01-12 01:54:00.423 [main] AmazonHeadPhoneItemTest - Expected product price is: null
+[INFO ] 2024-01-12 01:54:00.423 [main] AmazonHeadPhoneItemTest - Expected product rating is: null
+[INFO ] 2024-01-12 01:54:00.424 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 01:54:00.431 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 01:54:00.439 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 01:54:00.439 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 01:54:45.320 [main] AmazonOtherTests - Validation started
+[INFO ] 2024-01-12 01:54:45.536 [main] AmazonOtherTests - Hamburger menu clicked
+[INFO ] 2024-01-12 01:54:47.771 [main] AmazonOtherTests - Clicked on 'Mobiles, Computers
+[INFO ] 2024-01-12 01:55:04.124 [main] AmazonOtherTests - Clicked on 'All Mobile Phones'
+[INFO ] 2024-01-12 01:55:08.420 [main] AmazonOtherTests - Samsung Brand selected
+[INFO ] 2024-01-12 01:55:11.871 [main] AmazonOtherTests - Selected price High to Low
+[INFO ] 2024-01-12 01:55:12.599 [main] AmazonOtherTests - Selected the second highest item
+[INFO ] 2024-01-12 01:55:34.316 [main] AmazonOtherTests - Validation completed
+[INFO ] 2024-01-12 01:55:53.177 [main] AmazonOtherTests - Checkout and payment processed
+[INFO ] 2024-01-12 01:55:53.178 [main] AmazonOtherTests - Validation completed
+[INFO ] 2024-01-12 02:00:28.915 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 02:00:28.919 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 02:00:34.342 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 02:00:39.494 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 02:00:40.406 [main] AmazonHeadPhoneItemTest - Expected product title is: Rockerz 450R On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant(Hazel Beige)
+[INFO ] 2024-01-12 02:00:40.406 [main] AmazonHeadPhoneItemTest - Expected product price is: 1,958
+[INFO ] 2024-01-12 02:00:40.406 [main] AmazonHeadPhoneItemTest - Expected product rating is: 4.1 out of 5 stars
+[INFO ] 2024-01-12 02:00:40.406 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 02:01:38.416 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 02:01:38.750 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 02:01:38.750 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 02:43:34.951 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 02:43:34.959 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 02:43:39.618 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 02:43:44.086 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 02:43:45.242 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product title is: boAt Rockerz 450R On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant(Hazel Beige)
+[INFO ] 2024-01-12 02:43:45.242 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product price is: 1,958
+[INFO ] 2024-01-12 02:43:45.243 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product rating is: 4.1 out of 5 stars
+[INFO ] 2024-01-12 02:43:45.243 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 02:44:07.222 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 02:44:07.426 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 02:44:07.426 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 02:45:01.531 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 02:45:01.535 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 02:45:05.672 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 02:45:10.682 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 02:45:11.806 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product title is: boAt Rockerz 450R On-Ear Headphones with 15 Hours Battery, 40mm Drivers, Padded Ear Cushions, Easy Access Controls and Voice Assistant(Hazel Beige)
+[INFO ] 2024-01-12 02:45:11.806 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product price is: 1,958
+[INFO ] 2024-01-12 02:45:11.806 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product rating is: 4.1 out of 5 stars
+[INFO ] 2024-01-12 02:45:11.806 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 02:45:30.959 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 02:45:31.154 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 02:45:31.155 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 08:17:05.937 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 08:17:05.944 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 08:17:10.864 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 08:17:15.637 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 08:17:16.503 [main] AmazonHeadPhoneItemTest - Expected product title is: pTron Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 08:17:16.504 [main] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 08:17:16.504 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 08:17:16.504 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 08:17:41.850 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 08:17:42.029 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 08:17:42.029 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 14:15:56.753 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 14:15:56.758 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 14:15:57.519 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 14:16:04.173 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 14:16:04.593 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product title is: pTron Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 14:16:04.593 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 14:16:04.593 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 14:16:04.593 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 14:16:22.844 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 14:16:22.982 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 14:16:22.982 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 14:21:09.576 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 14:21:09.579 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 14:21:10.419 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 14:21:16.847 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 14:21:17.987 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product title is: pTron Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 14:21:17.987 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 14:21:17.987 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 14:21:17.987 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 14:21:49.166 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 14:21:51.486 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 14:21:51.487 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 14:33:29.189 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 14:33:29.194 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 14:35:00.439 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 14:35:00.445 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 14:35:01.255 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 14:35:07.819 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 14:35:08.583 [main] AmazonHeadPhoneItemTest - Expected product title is: pTron Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 14:35:08.583 [main] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 14:35:08.583 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 14:35:08.583 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 14:35:40.014 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 14:35:40.275 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 14:35:40.275 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 14:46:06.627 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 14:46:06.632 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 14:46:43.013 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 14:46:43.017 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 14:46:46.808 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 14:46:51.626 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 14:46:52.012 [main] AmazonHeadPhoneItemTest - Expected product title is: Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 14:46:52.012 [main] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 14:46:52.012 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 14:46:52.012 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 14:47:10.563 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 14:47:10.678 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 14:47:10.678 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 14:47:41.455 [main] AmazonOtherTests - Validation started
+[INFO ] 2024-01-12 14:47:41.773 [main] AmazonOtherTests - Hamburger menu clicked
+[INFO ] 2024-01-12 14:47:43.964 [main] AmazonOtherTests - Clicked on 'Mobiles, Computers
+[INFO ] 2024-01-12 14:48:52.578 [main] AmazonOtherTests - Clicked on 'All Mobile Phones'
+[INFO ] 2024-01-12 14:48:59.889 [main] AmazonOtherTests - Samsung Brand selected
+[INFO ] 2024-01-12 14:49:02.164 [main] AmazonOtherTests - Selected price High to Low
+[INFO ] 2024-01-12 14:49:02.593 [main] AmazonOtherTests - Selected the second highest item
+[INFO ] 2024-01-12 14:49:20.067 [main] AmazonOtherTests - Validation completed
+[INFO ] 2024-01-12 14:49:35.362 [main] AmazonOtherTests - Checkout and payment processed
+[INFO ] 2024-01-12 14:49:35.362 [main] AmazonOtherTests - Validation completed
+[INFO ] 2024-01-12 15:00:54.225 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 15:00:54.231 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 15:02:28.645 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 15:02:35.152 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 15:02:35.662 [main] AmazonHeadPhoneItemTest - Expected product title is: pTron Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 15:02:35.663 [main] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 15:02:35.663 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 15:02:35.663 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 15:02:58.716 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 15:02:58.846 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 15:02:58.847 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 15:09:09.684 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 15:09:09.703 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 15:14:53.557 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 15:14:53.561 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 15:15:06.859 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 15:15:06.864 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 15:15:11.004 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 15:15:17.466 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 15:15:18.007 [main] AmazonHeadPhoneItemTest - Expected product title is: pTron Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 15:15:18.008 [main] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 15:15:18.008 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 15:15:18.008 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 15:15:43.758 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 15:15:43.904 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 15:15:43.904 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-12 15:26:01.700 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-12 15:26:01.706 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-12 15:26:11.811 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-12 15:26:16.259 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-12 15:26:16.600 [main] AmazonHeadPhoneItemTest - Expected product title is: pTron Newly Launched Tangent Impulse, SafeBeats Open-Ear Wireless Headphones with Mic, 10H Playtime, Designed for Ear Health & Comfort, Bluetooth 5.3, Dual Device Pairing & Type-C Fast Charging(Black)
+[INFO ] 2024-01-12 15:26:16.601 [main] AmazonHeadPhoneItemTest - Expected product price is: 799
+[INFO ] 2024-01-12 15:26:16.601 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-12 15:26:16.601 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-12 15:27:49.335 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-12 15:27:49.462 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-12 15:27:49.462 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-13 14:14:14.849 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-13 14:14:14.856 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-13 14:14:17.286 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-13 14:14:17.288 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-13 14:14:17.902 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-13 14:14:17.970 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-13 14:14:22.034 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-13 14:14:22.268 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-13 14:14:22.779 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product title is: WH-1000XM5 Wireless The Best Active Noise Cancelling Headphones, 8 Mics for Clear Calling, 40Hr Battery, 3 Min Quick Charge = 3 Hours Playback, Multi Point Connectivity, Built-in Alexa - Black
+[INFO ] 2024-01-13 14:14:22.780 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product price is: 26,989
+[INFO ] 2024-01-13 14:14:22.780 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Expected product rating is: 4.5 out of 5 stars
+[INFO ] 2024-01-13 14:14:22.780 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-13 14:14:23.057 [main] AmazonHeadPhoneItemTest - Expected product title is: Sony WH-1000XM5 Wireless The Best Active Noise Cancelling Headphones, 8 Mics for Clear Calling, 40Hr Battery, 3 Min Quick Charge = 3 Hours Playback, Multi Point Connectivity, Built-in Alexa - Black
+[INFO ] 2024-01-13 14:14:23.057 [main] AmazonHeadPhoneItemTest - Expected product price is: 26,989
+[INFO ] 2024-01-13 14:14:23.057 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-13 14:14:23.058 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-13 14:14:34.372 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-13 14:14:34.407 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-13 14:14:34.407 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-13 14:14:37.330 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-13 14:14:37.354 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-13 14:14:37.356 [TestNG-test=C:\Users\dell\IdeaProjects\AmazonProjectsTDD-1] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-13 14:14:48.448 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-13 14:14:48.452 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-13 14:14:49.027 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-13 14:14:52.952 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-13 14:14:53.402 [main] AmazonHeadPhoneItemTest - Expected product title is: WH-1000XM5 Wireless The Best Active Noise Cancelling Headphones, 8 Mics for Clear Calling, 40Hr Battery, 3 Min Quick Charge = 3 Hours Playback, Multi Point Connectivity, Built-in Alexa - Black
+[INFO ] 2024-01-13 14:14:53.402 [main] AmazonHeadPhoneItemTest - Expected product price is: 26,989
+[INFO ] 2024-01-13 14:14:53.402 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.8 out of 5 stars
+[INFO ] 2024-01-13 14:14:53.402 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-13 14:15:10.040 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-13 14:15:10.144 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-13 14:15:10.144 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------
+[INFO ] 2024-01-16 20:14:17.898 [main] AmazonHeadPhoneItemTest - ----------------------Start----------------------------------
+[INFO ] 2024-01-16 20:14:17.903 [main] AmazonHeadPhoneItemTest - Validation started
+[INFO ] 2024-01-16 20:14:19.835 [main] AmazonHeadPhoneItemTest - Searched item head phone
+[INFO ] 2024-01-16 20:14:23.621 [main] AmazonHeadPhoneItemTest - Wireless connectivity selected
+[INFO ] 2024-01-16 20:14:24.257 [main] AmazonHeadPhoneItemTest - Expected product title is: Zebronics Zeb-Bang Pro Bluetooth Wireless On Ear Headphones with Mic V5.0, 30H Backup, Foldable, Call Function, Voice Assistant, Built-in Rechargeable Battery, Type C, 40Mm Driver and Aux (Orange)
+[INFO ] 2024-01-16 20:14:24.257 [main] AmazonHeadPhoneItemTest - Expected product price is: 599
+[INFO ] 2024-01-16 20:14:24.257 [main] AmazonHeadPhoneItemTest - Expected product rating is: 3.7 out of 5 stars
+[INFO ] 2024-01-16 20:14:24.258 [main] AmazonHeadPhoneItemTest - Selected the 5th item from the search result
+[INFO ] 2024-01-16 20:14:36.317 [main] AmazonHeadPhoneItemTest - Identified product added to the cart
+[INFO ] 2024-01-16 20:14:37.484 [main] AmazonHeadPhoneItemTest - Item verified and checkout in progress
+[INFO ] 2024-01-16 20:14:37.484 [main] AmazonHeadPhoneItemTest - ----------------------End----------------------------------

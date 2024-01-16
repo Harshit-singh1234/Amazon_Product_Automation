@@ -1,0 +1,13 @@
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/page/CartPage.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/startup/PropertyLoader.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/driver/ChromeOptionsFactory.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/page/DashboaedPage.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/utils/WaitElement.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/report/ReportListener.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/driver/Driver.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/driver/ChromeLocalDriverFactory.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/utils/SeleniumUtils.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/driver/DriverManager.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/page/ProductPage.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/exception/NoPropertiesException.java
+/Users/shubhankarde/Desktop/AmazonProjectsTDD/src/main/java/com/amazon/startup/BaseTest.java

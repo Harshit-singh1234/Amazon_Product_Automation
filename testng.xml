@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonTDD" parallel="classes" thread-count="2">
+    <test verbose="2" name="C:\Users\dell\IdeaProjects\AmazonProjectsTDD">
+        <classes>
+            <class name="com.example.AmazonHeadPhoneItemTest">
+                <methods>
+                    <include name="testVerifyHeadPhoneSearch"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
